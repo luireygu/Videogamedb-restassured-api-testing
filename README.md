@@ -33,7 +33,10 @@ Las pruebas incluyen validaciones de respuestas JSON, esquemas, códigos de esta
 
 ---
 
-👤 Autor Luis Reyes QA Automation Engineer
+👤 Autor   
+
+   Luis Reyes QA Functional & Automation Engineer   
+   GitHub: https://github.com/luireygu  
 
 💬 Este proyecto fue desarrollado como ejercicio práctico para fortalecer habilidades en automatización de pruebas API y buenas prácticas de diseño.
 
